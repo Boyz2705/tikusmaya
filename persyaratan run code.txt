@@ -1,0 +1,5 @@
+wajib install lib python:
+
+pyautogui
+mediapipe
+opencv
